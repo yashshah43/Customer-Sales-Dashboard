@@ -1,0 +1,11 @@
+## Viewing the Dashboard
+
+The dashboard files are available in this repository as `.twbx` files. To view the dashboards:
+
+1. Download and Open Locally:
+    - Download the `.twbx` file from the repository.
+    - Open it using [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Reader](https://www.tableau.com/products/reader).
+
+2. View Online (Tableau Public):
+    - Alternatively, you can view the interactive dashboards online using Tableau Public at (https://public.tableau.com/views/First_Project_17233036872730/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
